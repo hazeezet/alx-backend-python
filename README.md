@@ -4,7 +4,7 @@
 
 ![Repo size](https://img.shields.io/github/repo-size/hazeezet/alx-backend-python)
 ![Pep8 style](https://img.shields.io/badge/PEP8-style%20guide-purple?style=round-square)
-![Latest commit](https://img.shields.io/github/last-commit/hazeezet/alx-backend-python/master?style=round-square)
+![Latest commit](https://img.shields.io/github/last-commit/hazeezet/alx-backend-python/main?style=round-square)
 
 This repository contains all the project codes for the python backend specilization
 
